@@ -1,24 +1,18 @@
 @import 'bootstrap/dist/css/bootstrap';
 
-// .navbar {
+ .search-area {
+    padding-top: 50px;
+}
 
-// background-color: #FDF6EA !important;
+.no-right-padding {
+    padding-right: 0 !important;
+}
 
-// }
+.no-left-padding {
+    padding-left: 0 !important;
+} 
 
- 
 
-// .navbar-brand {
-
-// font-size: 3rem;
-
-// }
-
- 
-
-// h1 {
-
-// color: red;
-
-// }
-
+.results-block {
+    display: inline-block;
+} 
