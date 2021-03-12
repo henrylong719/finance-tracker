@@ -25,6 +25,8 @@ gem 'devise'
 
 gem 'pg'
 
+gem 'iex-ruby-client'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
