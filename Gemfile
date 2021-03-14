@@ -23,8 +23,6 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'devise'
 
-gem 'pg'
-
 gem 'iex-ruby-client'
 
 gem "font-awesome-rails"
